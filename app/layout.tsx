@@ -8,7 +8,7 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Desa Tounelet 1 - Website Resmi",
+  title: "Desa Sejahtera - Website Resmi",
   description: "Website resmi Desa Sejahtera - Informasi, berita, dan layanan desa",
   generator: "v0.app",
 }
